@@ -1,0 +1,6 @@
+{
+  "name": "CorePulse",
+  "description": "Real-time CPU, GPU, RAM and temperature performance analytics dashboard with PC connection",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
